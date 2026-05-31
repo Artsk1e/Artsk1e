@@ -38,15 +38,22 @@ I am a developer and student at **Mindanao State University - Iligan Institute o
 ---
 
 ## 📊 My GitHub Stats
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Artsk1e&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="Art's GitHub Stats" height="180" />
   <img src="https://streak-stats.demolab.com/?user=Artsk1e&theme=ambient_gradient&hide_border=false" alt="Art's GitHub Streak" height="180" />
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Artsk1e&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Art's Top Languages" height="180" />
-</p>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/art-vincent-papolonias-516a55355/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papoloniasvincent@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/art-vincent-papolonias-516a55355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:papoloniasvincent@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
