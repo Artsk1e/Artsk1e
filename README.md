@@ -1,14 +1,16 @@
 # Art Vincent D. Papolonias 
-### Full-Stack Developer | Student at MSU-IIT
+`Full-Stack Developer` + `Front-End Engineering` + `Database Schema Design`
 
-I build intuitive, user-centric web and mobile applications that solve real-world challenges. 
+Information Technology student at Mindanao State University - Iligan Institute of Technology, specializing in full-stack web development. I focus on engineering robust digital solutions by combining responsive front-end design with efficient database architecture and schema structuring. Additionally, I am dedicated to optimizing code performance through the continuous study and application of Data Structures and Algorithms (DSA).
 
 **Iligan City, Philippines** | **Learning:** JavaScript, React, Next.js | **Open to:** SaaS & Open Source
 
 ---
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,tailwind,postgres,mongodb,git" />
+</p>
 
 ---
 
