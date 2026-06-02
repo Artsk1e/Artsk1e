@@ -24,7 +24,6 @@ Information Technology student at Mindanao State University - Iligan Institute o
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Artsk1e&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="Art's GitHub Stats" height="160" />
   <img src="https://streak-stats.demolab.com/?user=Artsk1e&theme=ambient_gradient&hide_border=false" alt="Art's GitHub Streak" height="160" />
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Artsk1e&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Art's Top Languages" height="150" />
